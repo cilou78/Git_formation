@@ -21,4 +21,5 @@ ThermoSysPro v4.0 is developed on Dymola using MSL 4.0.
 The library documentation is available at [https://thermosyspro.gitlab.io/documentation](https://thermosyspro.gitlab.io/documentation).\
 
 More information can be found on [ThermoSysPro website](https://thermosyspro.com).
-# création conflit
+
+# première modification
