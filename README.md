@@ -19,5 +19,6 @@ ThermoSysPro v4.0 is developed on Dymola using MSL 4.0.
 ## Documentation, book and website
 
 The library documentation is available at [https://thermosyspro.gitlab.io/documentation](https://thermosyspro.gitlab.io/documentation).\
-The book [Modeling and Simulation of Thermal Power Plants with ThermoSysPro](https://www.springer.com/gp/book/9783030051044) describes in depth the physics at stake in the library.\
+
 More information can be found on [ThermoSysPro website](https://thermosyspro.com).
+# création conflit
